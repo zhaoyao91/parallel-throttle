@@ -1,0 +1,14 @@
+{
+  "name": "parallel-throttle",
+  "version": "1.0.0",
+  "description": "throttle tasks with parallel limitaion",
+  "main": "index.js",
+  "keywords": [
+    "throttle",
+    "parallel",
+    "promise"
+  ],
+  "author": "zhaoyao91 <zhaoyao91@163.com>",
+  "repository": "https://github.com/zhaoyao91/parallel-throttle.git",
+  "license": "MIT"
+}
