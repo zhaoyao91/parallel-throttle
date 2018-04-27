@@ -1,6 +1,6 @@
 {
   "name": "parallel-throttle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "throttle tasks with parallel limitaion",
   "main": "index.js",
   "keywords": [

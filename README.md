@@ -2,6 +2,10 @@
 
 > Throttle async task with parallel limitation.
 
+## Deprecation
+
+**This package is deprecated to prefer the new [runs-limit-func](https://github.com/zhaoyao91/runs-limit-func) package.**
+
 ## Installation
 
 ```
